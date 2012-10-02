@@ -11,7 +11,7 @@
     <artifactId>Esperance</artifactId>
     <packaging>nbm-application</packaging>
 
-    <name>esperance-app</name>
+    <name>Esperance</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
